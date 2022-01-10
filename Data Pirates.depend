@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625297343 source:g:\code blocks\data pirates\main.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<conio.h>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+
