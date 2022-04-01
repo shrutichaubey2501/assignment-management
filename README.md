@@ -13,9 +13,7 @@ Features this small piece of C++ code,
 3. view the deadline
 4. post the answer to the question
 
-# Text file is being used to store the data of the students and the staffs.
-
-# screenshots of output
+Text file is being used to store the data of the students and the staffs.
 
 ![Screenshot (381)](https://user-images.githubusercontent.com/69588968/161321913-d95df04f-0f0d-4171-a7eb-b47834ad90c7.png)
 ![Screenshot (385)](https://user-images.githubusercontent.com/69588968/161322318-9dc02935-749b-423b-ba5e-a51be9529a1a.png)
