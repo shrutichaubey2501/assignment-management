@@ -17,7 +17,7 @@ Features this small piece of C++ code,
 
 # screenshots of output
 
-![Screenshot (381)](https://user-images.githubusercontent.com/69588968/161321913-d95df04f-0f0d-4171-a7eb-b47834ad90c7.png| width=100)
-![Screenshot (385)](https://user-images.githubusercontent.com/69588968/161322318-9dc02935-749b-423b-ba5e-a51be9529a1a.png| width=100)
-![Screenshot (386)](https://user-images.githubusercontent.com/69588968/161322347-e66ea6db-5f53-48f8-b01a-2ba26ca3519e.png| width=100)
-![Screenshot (387)](https://user-images.githubusercontent.com/69588968/161322374-398fb310-2b76-4ee6-8004-691e6127cad2.png| width=100)
+![Screenshot (381)](https://user-images.githubusercontent.com/69588968/161321913-d95df04f-0f0d-4171-a7eb-b47834ad90c7.png)
+![Screenshot (385)](https://user-images.githubusercontent.com/69588968/161322318-9dc02935-749b-423b-ba5e-a51be9529a1a.png)
+![Screenshot (386)](https://user-images.githubusercontent.com/69588968/161322347-e66ea6db-5f53-48f8-b01a-2ba26ca3519e.png)
+![Screenshot (387)](https://user-images.githubusercontent.com/69588968/161322374-398fb310-2b76-4ee6-8004-691e6127cad2.png)
