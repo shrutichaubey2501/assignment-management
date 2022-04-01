@@ -14,3 +14,5 @@ Student can:
 4. post the answer to the question
 
 Text file is being used to store the data of the students and the staffs.
+
+![Screenshot (381)](https://user-images.githubusercontent.com/69588968/161321913-d95df04f-0f0d-4171-a7eb-b47834ad90c7.png)
